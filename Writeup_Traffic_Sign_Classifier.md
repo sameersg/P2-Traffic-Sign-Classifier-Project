@@ -114,7 +114,7 @@ The code for calculating the accuracy of the model is located in the **eleventh 
 
 My final model results were:
 * training set accuracy of **0.995**
-* validation set accuracy of **0.923**
+* validation set accuracy of **0.946**
 * test set accuracy of **0.923**
 
 If an iterative approach was chosen:
